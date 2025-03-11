@@ -25,7 +25,6 @@ I'm a **second-year IT engineering student** at **Terna Engineering College, Mum
 
 ## 📬 Let's Connect!  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-jadhav-founder-of-akhand-groups)  
-- 💻 [GitHub](https://github.com/DhananjayJadhav-DJ)  
 - 📺 **YouTube:** Simplifying programming concepts  
 
 🔥 **"Code, Learn, and Build!"**
